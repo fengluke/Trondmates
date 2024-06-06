@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Trondmates data collector guide"
+project = "Trondmates data collection guide"
 copyright = "2024, Trondmates team"
 author = "Trondmates team"
 
