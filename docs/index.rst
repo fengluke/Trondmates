@@ -47,3 +47,4 @@
    :numbered:
    
    version/version.rst
+   version/note.rst
