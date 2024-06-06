@@ -3,7 +3,6 @@
 ===================================
 
 .. note::
-
    This project is under active development.
 
 
@@ -12,9 +11,9 @@
    :caption: 快速开始
    :numbered:
 
-   introduction.rst 
-   usage.rst
-   api.rst
+   intro/introduction.rst 
+   intro/auth.rst
+   intro/senior_auth.rst
 
 .. toctree::
    :maxdepth: 0
@@ -23,3 +22,28 @@
 
    useage/registration.rst
    useage/controlpanel.rst
+   useage/upload.rst
+   useage/encode.rst
+   useage/data_verification.rst
+   useage/sharing.rst
+
+.. toctree::
+   :maxdepth: 0
+   :caption: 试验方案
+   :numbered:
+
+   experimental/MD_calc.rst
+
+.. toctree::
+   :maxdepth: 0
+   :caption: 参考文献
+   :numbered:
+   
+   references/MD_calc.rst
+
+.. toctree::
+   :maxdepth: 0
+   :caption: 版本说明
+   :numbered:
+   
+   version/version.rst
