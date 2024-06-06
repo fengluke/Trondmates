@@ -1,18 +1,11 @@
-认证数据采集文档
+
+欢迎来到认证数据采集者使用文档
 ===================================
-
-
-
-introduction.rst 
-
-
 
 .. note::
 
    This project is under active development.
 
-Contents
---------
 
 .. toctree::
    :maxdepth: 0
@@ -23,3 +16,10 @@ Contents
    usage.rst
    api.rst
 
+.. toctree::
+   :maxdepth: 0
+   :caption: 注册使用
+   :numbered:
+
+   useage/registration.rst
+   useage/controlpanel.rst
