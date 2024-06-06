@@ -15,8 +15,11 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 0
+   :caption: 快速开始
+   :numbered:
 
-   Home <self>
-   usage
-   api
+   introduction.rst 
+   usage.rst
+   api.rst
 
